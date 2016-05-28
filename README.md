@@ -2,9 +2,9 @@ FProject-Mod3 - Project Submission on 19062016-2359
 
 Video Demo Link: https://www.youtube.com/watch?v=9KvlihM34_4
 
-Physical Script - yun-fsr-led-simple.ino (arduino to sense data and send the reading to AWS debian instants)
+Folder -> yun-fsr-led-simple contain yun-fsr-led-simple.ino (arduino to read sensor data and send the reading to AWS debian instants)
 
-AWS Script
+Folder -> cps contain php script in AWS
 
 1)cps.php->The script connect,and insert the value into the database.
 
