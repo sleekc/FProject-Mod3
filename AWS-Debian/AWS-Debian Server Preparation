@@ -1,0 +1,9 @@
+AWS-Debian Server Preparation
+
+1) Setting up Apache/Mysql/Php in debian
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-debian
+
+2) Setting up Email notification using msmtp 
+https://www.digitalocean.com/community/tutorials/how-to-use-gmail-or-yahoo-with-php-mail-function
+
+
