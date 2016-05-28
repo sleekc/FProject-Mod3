@@ -6,7 +6,7 @@ Folder -> Arduino-Fritzing Img contain Arduino + FSR Sensor wiring diagram
 
 Folder -> cps contain php script that is in AWS
 
-1)cps.php->The script connect,and insert the value into the database.
+1)cps.php->The script connect,and insert the value into the database, email notification.
 
 2)cpsdata.php->Script the do a sql query, count all the reading in a day, prepare the return data in json for google chart.
 
