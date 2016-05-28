@@ -2,6 +2,8 @@ FProject-Mod3 - Project Submission on 19062016-2359
 
 Video Demo Link: https://www.youtube.com/watch?v=9KvlihM34_4
 
+Folder -> AWS Debian contain resouces on setting up the required services
+
 Folder -> Arduino-Fritzing Img contain Arduino + FSR Sensor wiring diagram
 
 Folder -> cps contain php script that is in AWS
