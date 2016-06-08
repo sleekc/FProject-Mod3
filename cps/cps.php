@@ -1,7 +1,5 @@
 <?php
 
-require("phpMQTT.php");
-
 if (isset($_GET["s"]))
 {
 
