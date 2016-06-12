@@ -8,7 +8,7 @@
 #include <YunServer.h>
 
 //byte mac[] = { 0x90, 0xA2, 0xDA, 0x00, 0x39, 0xA7 };
-IPAddress server(52,11,215,248);//AWS
+IPAddress server(52,11,xxx,xxx);//AWS
 //IPAddress ip(192, 168, 0, 177);//static ip for router
 //EthernetClient client;
 YunClient client;
